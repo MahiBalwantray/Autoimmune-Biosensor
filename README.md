@@ -8,8 +8,11 @@ This project simulates how a biosensor detects autoimmune biomarkers (like those
 - Plots generated from synthetic or real input data
 
 ## 🐍 Python Files
-- `biosensor_model.py`: core logic for biomarker detection
-- `sensor_plot.py`: generates response plots
+- `Data_Preprocessing.ipynb`
+- `Model Development_Model Evaluation.ipynb`
+- `Model Validation.ipynb`
+- `T1D.ipynb`
+- `Train-Test Split_data.ipynb`
 
 ## 📊 Data
 - `sample_data.csv`: test data (if included)
