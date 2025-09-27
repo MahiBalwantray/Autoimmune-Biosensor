@@ -15,8 +15,5 @@ This project simulates how a biosensor detects autoimmune biomarkers (like those
 - `Train-Test Split_data.ipynb`
 
 ## 📊 Data
-- `sample_data.csv`: test data (if included)
+- `metadata.tsv`: test data 
 
-## 💡 How to Run
-```bash
-python biosensor_model.py
